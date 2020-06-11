@@ -1,2 +1,2 @@
 # my personal website
-[https://yichen-cui.ca](https://yichen-cui.ca)
+[https://penguinuwu.github.io](penguinuwu.github.io)
