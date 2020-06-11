@@ -1,2 +1,2 @@
 # my personal website
-[https://penguinuwu.github.io](penguinuwu.github.io)
+[penguinuwu.github.io](https://penguinuwu.github.io/)
