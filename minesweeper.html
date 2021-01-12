@@ -93,8 +93,10 @@
           <div class="card text-white bg-dark h-100">
             <h5 class="card-header">Stats</h5>
             <div class="card-body">
-              <p><i class="fas fa-bomb"></i> <span v-html="bombs-flags"></span></p>
+              <p><i class="fas fa-bomb"></i> Bomb count: <span v-html="bombs-flags"></span></p>
               <div class="text-center">
+                <p>Left click a square to dig <i class="fas fa-bomb"></i></p>
+                <p>Right click a square to flag <i class="fas fa-flag"></i></p>
                 <button type="button" class="btn btn-success" @click="restart">
                   Restart <i class="fas fa-cat"></i>
                 </button>
